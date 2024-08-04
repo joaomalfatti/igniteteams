@@ -6,3 +6,4 @@ export const Container = styled.View `
   padding: 24px;
   
 `;
+ 
