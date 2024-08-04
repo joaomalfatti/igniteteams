@@ -1,5 +1,5 @@
 
-import { Container, Title } from './style';
+import { Container } from './style';
 
 /*Outra forma de importação.
   import * as S from './styles';
@@ -8,7 +8,7 @@ import { Container, Title } from './style';
 export function Groups() {
   return (
     <Container>
-      <Title>Groups</Title>
+      
     </Container>
   );
 }
